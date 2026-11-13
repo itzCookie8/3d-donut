@@ -1,4 +1,4 @@
-# 🍩 3D Donut in Rust
+# 3D Donut in Rust
 
 A terminal-based, rotating 3D ASCII donut written in Rust — inspired by the classic
 [`donut.c`](https://www.a1k0n.net/2011/07/20/donut-math.html) by Andy Sloane.
